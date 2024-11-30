@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/radem/My project/Assets/Scenes/dingetje.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
